@@ -8,4 +8,4 @@
 
 ### 🔗 Conéctate conmigo  
 [![LinkedIn](https://es.linkedin.com/in/miguel-gutierrez-noguera-092006156?original_referer=https%3A%2F%2Fwww.linkedin.com%2F)  
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?style=flat&logo=twitter)](https://twitter.com/tuusuario)  
+
